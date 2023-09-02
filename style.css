@@ -1,0 +1,75 @@
+:root {}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+}
+
+html {
+    color: #333;
+    font-size: 62.5%;
+    font-family: "Open Sans", sans-serif;
+    box-sizing: border-box;
+
+}
+
+.container {
+    width: 1523px;
+    margin: 100%;
+    margin: 0 auto;
+}
+
+p,
+li {
+    font-size: 2rem;
+}
+
+h1 {
+    font-size: 5.251rem;
+}
+
+ul {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+li {
+    list-style: '-';
+}
+
+.line {
+    border-left: #000 solid 6px;
+    padding-left: 30px;
+}
+
+.space-white {
+    margin-top: 50px;
+}
+
+.fontused-space {
+    margin: 50px 0;
+}
+
+/* Read me */
+.readme {
+    background-color: #FFD900;
+
+}
+
+.readme>div {
+    margin-left: 50px;
+    padding: 50px 0;
+}
+
+
+
+.readme h1 {
+    margin: 0;
+}
+
+
+/* Font Guide */
+.fontguide {
+    margin: 0 50px;
+}
